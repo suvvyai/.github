@@ -1,1 +1,1 @@
-<img src="src/background.svg" style="margin-top: 25px">
+<img src="background.svg" style="margin-top: 25px">
