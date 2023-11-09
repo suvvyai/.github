@@ -1,1 +1,1 @@
-<img src="background.svg" style="margin-top: 25px">
+<img src="https://raw.githubusercontent.com/suvvyai/.github/main/profile/background.svg" style="margin-top: 25px">
