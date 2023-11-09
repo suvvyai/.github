@@ -1,1 +1,2 @@
-<img src="https://raw.githubusercontent.com/suvvyai/.github/main/profile/background.svg" style="margin-top: 25px">
+# Suvvy AI
+Chatbots based on **artificial intelligence** for your business
