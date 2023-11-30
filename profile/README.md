@@ -18,6 +18,8 @@ Suvvy AI specializes in AI-based chatbots that enhance customer engagement and e
 - **One-Day Integration**
 
 ## 📧 Contact
-Reach out via [WhatsApp](https://wa.me/971585987835), [Telegram](https://t.me/anton_bes88), or email at info@suvvy.ai for more info.
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?style=for-the-badge&logo=whatsapp)](https://wa.me/971585987835)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anton_bes88)
+[![info@suvvy.ai](https://img.shields.io/badge/info%40suvvy.ai-red?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:info@suvvy.ai)
 
-🔗 [Learn More](https://suvvy.ai)
+### 🔗 [**Learn More**](https://suvvy.ai)
